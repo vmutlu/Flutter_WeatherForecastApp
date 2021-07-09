@@ -1,0 +1,4 @@
+#Fri Jul 09 22:14:25 EET 2021
+base.0=D\:\\ETrade\\weather_forecast_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

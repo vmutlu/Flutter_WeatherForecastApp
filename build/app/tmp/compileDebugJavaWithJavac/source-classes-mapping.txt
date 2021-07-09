@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/weather_forecast_flutter/MainActivity.java
+ com.example.weather_forecast_flutter.MainActivity
+com/example/weather_forecast_flutter/BuildConfig.java
+ com.example.weather_forecast_flutter.BuildConfig
